@@ -9,7 +9,6 @@ function Sidebar() {
       <div className="h-[60px] flex items-center justify-center p-4">
         <img className="w-[160px]" src="/logoipsum.svg" alt="Logo Ipsum" />
       </div>
-
       <span className="text-sm font-bold text-teal-500 border-b ml-2 pb-2 block mb-4">Pages</span>
 
       <div className="px-3 w-full flex flex-col gap-3">

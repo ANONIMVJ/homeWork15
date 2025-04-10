@@ -17,7 +17,7 @@ function Products() {
         {products.map((product) => (
           <div
             key={product.id}
-            className="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 border border-teal-300"
+            className="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 border border-teal-300" 
           >
             <div className="relative w-full h-72">
               <img

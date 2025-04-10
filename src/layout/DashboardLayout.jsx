@@ -1,7 +1,7 @@
 import React from "react"
 import { Outlet } from "react-router";
 import Sidebar from "./Sidebar";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 
 function DashboardLayout() {
     return (
